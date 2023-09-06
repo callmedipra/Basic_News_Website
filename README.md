@@ -1,1 +1,1 @@
-# Basic news website by fetching the API of news
+# Basic News website by fetching the API of news
